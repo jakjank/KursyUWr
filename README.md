@@ -12,3 +12,9 @@
  * Programming in C++
  * Object-oriented programming
  * Digital logic
+
+## Semester 3
+ * Numerical analysis
+ * Discrete mathematics
+ * Advanced python course
+ * Algorithm implementation methods
