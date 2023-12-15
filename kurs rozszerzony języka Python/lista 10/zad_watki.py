@@ -5,6 +5,8 @@ import random
 import threading
 import queue
 
+#ZABAWA Z WATKAMI
+
 def num_of_neighb(state, i, j):
     num = 0
     for x in [-1,0,1]:
