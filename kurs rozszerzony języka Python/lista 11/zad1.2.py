@@ -142,7 +142,7 @@ def main(args):
         session.close()
 
 if __name__=="__main__":
-    if len(sys.argv) == 0:
+    if len(sys.argv) == 1:
          print("zobacz 'python zad1.2.py --help'")
     else:
         main(sys.argv[1:])
