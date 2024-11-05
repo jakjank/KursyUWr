@@ -18,3 +18,17 @@
  * Discrete mathematics
  * Advanced python course
  * Algorithm implementation methods
+
+## Semester 4
+ * Algorithms & data structures
+ * Databases
+ * Computer systems
+ * Probability and statistics
+
+## Semester 5 (Universidade do Porto)
+ * Algorithms in Discrete Mathematics
+ * Software Design and Testing Laboratory
+ * Linear Algebra and Analytic Geometry
+ * Modelling and Optimization
+ * Computer Networks
+ * Portuguese course :)
